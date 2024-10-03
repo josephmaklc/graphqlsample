@@ -1,4 +1,4 @@
-This is a demo of GraphQL in java. Modeled after this example
+This is a demo of [Graph QL](https://graphql.org/learn/) in java Spring Boot. Modeled after this example
 [https://dzone.com/articles/a-beginners-guide-to-graphql-with-spring-boot](https://dzone.com/articles/a-beginners-guide-to-graphql-with-spring-boot)
 It is updated with newer versions of dependencies, with different way to do mutation and query resolving.
 
@@ -49,5 +49,6 @@ query {
 ```
 
 
-The H2 console is enabled, look in the log for the jdbc string to look at the table.
+The H2 console is enabled, see [http://localhost:8080/h2-console](http://localhost:8080/h2-console).
+Look in the console log for the jdbc string to look inside the table.
 
